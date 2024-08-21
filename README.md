@@ -3,7 +3,7 @@
 </div>
 
 ###
-<h1 align="left">Hi! I am Bashil<br><br></h1><h2 align="left">I'm a CS undergrad <br>a Tech Enthusiast from Nepal!</h2>
+<h1 align="center">Hi! I am Bashil</h1><h2 align="center">I'm a CS undergrad <br>a Tech Enthusiast from Nepal!</h2>
 
 ###
 
@@ -13,8 +13,8 @@
 </div>
 
 ###
-<h2 align="left">Languages and Tools</h2>
-<div align="left">
+<h2 align="center">Languages and Tools</h2>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
