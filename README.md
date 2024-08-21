@@ -13,7 +13,7 @@
 </div>
 
 ###
-
+<h2 align="left">Languages and Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="16" />
@@ -33,6 +33,7 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/2c7diqh1oVIAAAAd/anime-computer.gif"  />
 
 ###
+<h2 align="left">My Socials:- </h2>
 
 <div align="left">
 <a href="https://www.instagram.com/joji_dono/" target="_blank">
