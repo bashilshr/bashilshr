@@ -3,8 +3,7 @@
 </div>
 
 ###
-<h1 align="left">Hi! I am Bashil<br><br></h1>
-<h2 align="left">I'm a CS undergrad <br>a Tech Enthusiast from Nepal!</h2>
+<h1 align="left">Hi! I am Bashil<br><br></h1><h2 align="left">I'm a CS undergrad <br>a Tech Enthusiast from Nepal!</h2>
 
 ###
 
